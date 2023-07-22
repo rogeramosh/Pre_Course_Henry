@@ -1,2 +1,3 @@
-# Pre_Course_Henry
-este es una muestra
+roger ramos
+
+creando un  repositorio mediante un clone
